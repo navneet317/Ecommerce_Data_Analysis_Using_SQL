@@ -9,7 +9,7 @@ The project focuses on building practical SQL skills commonly used in analytics 
 
 ## Dataset Overview
 
-The dataset was sourced from Kaggle and contains inventory-level product information scraped from Zepto's product catalog.
+The dataset was sourced from Kaggle and contains inventory-level product information scraped from Zepto product catalog.
 
 Each record represents a unique product SKU containing information about product pricing, discounts, availability, inventory levels, and product attributes.
 
@@ -58,15 +58,21 @@ Prepared the dataset for analysis by:
 
 ### 5. Business Analysis & Insights
 
-Generated business-driven insights including:
+• Identified top products offering the highest discounts to understand customer value opportunities
 
-* Revenue estimation by category
-* Discount analysis across product groups
-* Identification of high-value out-of-stock products
-* Price-per-gram analysis for value optimization
-* Category-level inventory analysis
-* Product segmentation based on package sizes
-* Inventory weight analysis across categories
+• Analyzed expensive products that are currently out of stock to identify potential revenue loss
+
+• Estimated category-level revenue using pricing and inventory information
+
+• Filtered high-priced products with low discounts for pricing analysis
+
+• Identified categories providing the highest average discounts
+
+• Calculated price per gram to compare product value across categories
+
+• Segmented products into Low, Medium, and Bulk groups based on product weight
+
+• Measured total inventory weight across categories to understand inventory distribution
 
 ---
 
@@ -83,13 +89,6 @@ Generated business-driven insights including:
 ---
 
 ## How to Use
-
-### Clone Repository
-
-```bash
-git clone <repository-url>
-cd <repository-name>
-```
 
 ### Steps
 
