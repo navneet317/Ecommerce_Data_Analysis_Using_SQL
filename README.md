@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project simulates how data analysts work with real-world e-commerce inventory data using SQL. The objective is to transform raw inventory data into actionable business insights through structured analysis, cleaning, and exploratory investigation.
+This project simulates how data analysts work with **real-world e-commerce inventory data** using SQL. The objective is to transform raw inventory data into actionable business insights through structured analysis, cleaning, and exploratory investigation.
 
 The project focuses on building practical SQL skills commonly used in analytics roles, including data cleaning, business analysis, inventory analytics, pricing analysis, and revenue estimation.
 
